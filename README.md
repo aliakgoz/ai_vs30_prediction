@@ -17,7 +17,7 @@
   </p>
 
 <p style="text-align: center;"><span style="font-family: Tahoma, Geneva, sans-serif; font-size: 19px;">
-    <img src="./img/Site-Class-descriptions-and-their-V-S-30-ranges.png" style="width: 371px;">
+    <img src="./img/Site-Class-descriptions-and-their-V-S-30-ranges.png" height="180">
   </span></p>
 <p style="text-align: center;"><em>Soil classification table according to V<sub>s30</sub> values [3]</em></p>
 <p style="text-align: center;">
