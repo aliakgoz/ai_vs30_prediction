@@ -50,5 +50,32 @@
     <br>
   </p>
 
+<p style="text-align: justify;"><span style="font-size: 19px; font-family: Tahoma, Geneva, sans-serif;">This study done by&nbsp;</span><span style="font-size: 19px; font-family: Tahoma, Geneva, sans-serif;">Ali AKGÖZ (</span>
+  <a href="mailto:aliakgoz@gmail.com"><span style="font-size: 19px; font-family: Tahoma, Geneva, sans-serif;">aliakgoz@gmail.com</span></a><span style="font-size: 19px; font-family: Tahoma, Geneva, sans-serif;">)</span><span style="font-size: 19px; font-family: Tahoma, Geneva, sans-serif;">&nbsp;as a term project for 
+    <a href="https://web.cs.hacettepe.edu.tr/~onderefe/bil684/" rel="noopener noreferrer" target="_blank">CMP684 - Neural Networks Course</a> (Hacettepe University - Computer Engineering) under supervision of the instructor of the course 
+    <a href="https://web.cs.hacettepe.edu.tr/~onderefe/" rel="noopener noreferrer" target="_blank">Prof. Dr. M.Önder EFE</a>.&nbsp;
+  </span></p>
+<p>
+  <br>
+</p>
+<p>
+  <br>
+</p>
+<p style="text-align: justify;"><strong>References:</strong></p>
+<p style="text-align: justify;">[1] 
+  <a href="https://deprem.afad.gov.tr/istasyonlar">https://deprem.afad.gov.tr/istasyonlar</a> &nbsp;
+</p>
+<p style="text-align: justify;">[2] 
+  <a href="http://kyhdata.deprem.gov.tr/">http://kyhdata.deprem.gov.tr/</a>&nbsp; (currently unavailable due to maintenance. 17.03.2020)&nbsp;
+</p>
+<p style="text-align: justify;">[3] Building Seismic Safety Council, NEHRP Recommended Provisions for Seismic Regulations for New Buildings and Other Structures (Fema 450)," Part 1, no. Fema 450, p. 338, 2003.</p>
+<p style="text-align: justify;">[4] 
+  <a href="https://web.ics.purdue.edu/~braile/edumod/waves/Swave.gif">https://web.ics.purdue.edu/~braile/edumod/waves/Swave.gif</a> &nbsp;
+</p>
+<p style="text-align: justify;">[5] N. Nigam, P. Jennings, and C. I. of Technology Earthquake Engineering Research Laboratory, Digital calculation of response spectra from strong-motion earthquake records. California Institute of Technology, Earthquake Engineering Research Laboratory, 1968</p>
+
+
+
+
 </body>
 </html>
